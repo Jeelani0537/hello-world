@@ -12,8 +12,8 @@
 
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
-  <name>Webapp</name>
-  <description>Webapp.</description>
+  <name>ValaxyWebapp</name>
+  <description>ValaxyWebapp.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
