@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>webapp</artifactId>
+  <artifactId>Valaxywebapp</artifactId>
   <packaging>war</packaging>
   <name>ValaxyWebapp</name>
   <description>ValaxyWebapp.</description>
